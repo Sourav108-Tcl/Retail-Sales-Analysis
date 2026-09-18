@@ -1,0 +1,43 @@
+Order ID,Order Date,Customer ID,Customer Name,Product,Category,Region,Quantity,Sales,Profit
+1001,2025-01-05,C001,Rahul Das,Laptop,Electronics,East,1,65000,8000.0
+1002,2025-01-08,C002,Priya Sen,Office Chair,Furniture,West,2,12000,2500.0
+1003,2025-01-12,C003,Amit Roy,Notebook,Stationery,North,10,1500,600.0
+1004,2025-01-18,C004,Sneha Paul,Smartphone,Electronics,South,2,40000,5000.0
+1005,2025-01-22,C005,Arjun Ghosh,Desk,Furniture,East,1,9000,1800.0
+1006,2025-02-03,C006, Riya Das ,Headphones,Electronics,West,3,9000,2100.0
+1007,2025-02-09,C007,Suman Roy,Pen Set,Stationery,North,20,1000,400.0
+1008,2025-02-15,C008,Ananya Sen,Laptop,Electronics,South,1,70000,9000.0
+1009,2025-02-21,C001,Rahul Das,Bookshelf,Furniture,East,2,14000,3000.0
+1010,2025-03-02,C009,Karan Paul,Printer,Electronics,West,1,18000,3500.0
+1011,2025-03-07,C010,Moumita Roy,Notebook,Stationery,North,15,2250,900.0
+1012,2025-03-13,C003,Amit Roy,Desk,Furniture,South,2,18000,3600.0
+1013,2025-03-20,C005,Arjun Ghosh,Smartphone,Electronics,East,1,22000,3000.0
+1014,2025-04-04,C002,Priya Sen,Office Chair, furniture ,West,3,18000,3750.0
+1015,2025-04-10,C006,Riya Das,Pen Set,Stationery,North,30,1500,600.0
+1016,2025-04-17,C008,Ananya Sen,Laptop,Electronics,South,1,68000,8500.0
+1017,2025-05-01,C004,Sneha Paul,Printer,Electronics,East,2,36000,7000.0
+1018,2025-05-09,C007,Suman Roy,Bookshelf,Furniture,North,1,7000,1400.0
+1019,2025-05-16,C009,Karan Paul,Notebook,Stationery,West,25,3750,1500.0
+1020,2025-05-25,C010,Moumita Roy,Headphones,Electronics,South,4,12000,2800.0
+1021,2025-06-03,C001,Rahul Das,Smartphone,Electronics,East,2,44000,6000.0
+1022,2025-06-11,C003,Amit Roy,Office Chair,Furniture,North,2,12000,2500.0
+1023,2025-06-19,C005,Arjun Ghosh,Pen Set,Stationery, west ,40,2000,800.0
+1024,2025-06-27,C008,Ananya Sen,Laptop,Electronics,South,2,130000,16000.0
+1025,2025-07-05,C002,Priya Sen,Desk,Furniture,East,1,9000,1800.0
+1026,2025-07-12,C006,Riya Das,Printer,Electronics,West,1,18000,3500.0
+1027,2025-07-20,C009,Karan Paul,Notebook,Stationery,North,35,5250,2100.0
+1028,2025-08-02,C004,Sneha Paul,Smartphone,Electronics,South,2,44000,6000.0
+1029,2025-08-15,C007,Suman Roy,Bookshelf,Furniture,East,2,14000,3000.0
+1030,2025-08-28,C010,Moumita Roy, Headphones ,Electronics,West,5,15000,3500.0
+1031,2025-09-06,C001,Rahul Das,Laptop,Electronics,North,1,65000,8000.0
+1032,2025-09-14,C003,Amit Roy,Desk,Furniture,South,1,9000,1800.0
+1033,2025-09-22,C005,Arjun Ghosh,Notebook,Stationery,East,50,7500,3000.0
+1034,2025-10-03,C008,Ananya Sen,Printer,Electronics,West,2,36000,7000.0
+1035,2025-10-11,C002,Priya Sen,Office Chair,Furniture,North,4,24000,5000.0
+1036,2025-10-19,C006,Riya Das,Pen Set,Stationery,South,25,1250,500.0
+1037,2025-11-01,C004,Sneha Paul,Smartphone,Electronics,East,1,22000,3000.0
+1038,2025-11-09,C009,Karan Paul,Bookshelf,Furniture,West,3,21000,4200.0
+1039,2025-11-18,C007,Suman Roy,Notebook,Stationery,,45,6750,2700.0
+1040,2025-12-05,C010,Moumita Roy,Laptop,Electronics,South,1,70000,
+1001,2025-01-05,C001,Rahul Das,Laptop,Electronics,East,1,65000,8000.0
+1014,2025-04-04,C002,Priya Sen,Office Chair, furniture ,West,3,18000,3750.0
